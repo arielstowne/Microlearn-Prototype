@@ -52,12 +52,12 @@ html {
 .login-form {
 	width: 365px;
 	height: 283px;
-	background-color: #f2f2f2;
+	background-color: transparent;
 	border-radius: 15px;
 }
 
 .form-group {
-	background-color: #f2f2f2;
+	background-color: transparent;
 	position: relative;
 	width: 330px;
 }
